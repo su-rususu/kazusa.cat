@@ -5,3 +5,5 @@
 
 
 <link href="https://mstdn.maud.io/@su_rususu" rel="me">
+
+link : [català](catala.md)
