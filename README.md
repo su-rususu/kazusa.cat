@@ -6,4 +6,4 @@
 
 <link href="https://mstdn.maud.io/@su_rususu" rel="me">
 
-link : [català](catala.md)
+link : [català](catala.md) | [blog](blog.kazusa.cat)
