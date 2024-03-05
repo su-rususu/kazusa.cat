@@ -1,5 +1,7 @@
 ## about
 
+Aquest text ha estat escrit per un parlant de japonès a través de traducció automàtica.
+
 kazusa.cat és un domini adquirit en honor al personatge Kazusa Kyoyama que apareix a BlueArchive.
 
 Inicialment, es va intentar obtenir un domini .sa, però els dominis d'Aràbia Saudita requereixen residència local i altres requisits, el que en fa una tasca difícil d'obtenir.
